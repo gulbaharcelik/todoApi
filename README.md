@@ -1,1 +1,2 @@
 # todoApi
+dotnet restore
